@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://lh3.googleusercontent.com/a-/AFdZucrsndg9LpQQBuclgkee5j9tKTNahrkt3oc6IjyZ=s576-p-rw-no" width="200"/>
+  <img src="https://lh3.googleusercontent.com/a/ALm5wu0R6swdP6qm8m3WYLH_OOKV-dm9vof4JWx7mDo0Fg=s576-p-rw-no" width="200"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
