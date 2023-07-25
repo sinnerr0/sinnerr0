@@ -60,4 +60,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="xd" width="40" height="40"/> </a>  
   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="xd" width="40" height="40"/> </a>  
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="xd" width="40" height="40"/> </a>  
+  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="xd" width="40" height="40"/> </a>  
+  <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" alt="xd" width="40" height="40"/> </a>  
 </p>
